@@ -7,3 +7,5 @@ Ini dari akun kontributor
 Ini dari akun owner  
 
 Kontributor menambah di development  
+
+penambahan kata 1
