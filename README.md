@@ -6,4 +6,4 @@ Ini dari akun kontributor
 
 Ini dari akun owner  
 
-Kontributir menambah di development  
+Kontributor menambah di development  
